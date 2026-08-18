@@ -1,2 +1,2 @@
 # AIPI-503
-Python Bootcamp
+Each folder will house challenges given 
