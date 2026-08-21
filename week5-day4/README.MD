@@ -51,7 +51,7 @@ The exact location is: lat 25.2582, lon 55.3047
 
 ## How to run the web app
 - The web app will use a streamlit secrect for its API, so simply go to the following website: 
-``` ```
+```https://ha199-aipi-503-week5-day4.streamlit.app/```
 - the page will look the same as when it was run locally
 
 ## Usage
